@@ -1,0 +1,15 @@
+{
+    "name": "YarnSpinner.Unity.Manager",
+    "references": [
+        "GUID:34aa492b82754644eac2f903cd496268"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

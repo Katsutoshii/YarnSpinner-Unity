@@ -16,6 +16,18 @@ MonoBehaviour:
   assetSourceFolder: {fileID: 102900000, guid: cb6ecdd5e5d504a7aa1028582daa5b62, type: 3}
   _stringTable:
     keys:
+    - line:5837f2
+    - line:ship09
+    - line:ship10
+    - line:ship11
+    - line:ship12
+    - line:ship13
+    - line:ship01
+    - line:ship03
+    - line:ship04
+    - line:ship05
+    - line:ship06
+    - line:ship07
     - line:794945
     - line:2dc39b
     - line:34de2f
@@ -32,19 +44,19 @@ MonoBehaviour:
     - line:5df323
     - line:60c282
     - line:d7df49
-    - line:5837f2
-    - line:ship09
-    - line:ship10
-    - line:ship11
-    - line:ship12
-    - line:ship13
-    - line:ship01
-    - line:ship03
-    - line:ship04
-    - line:ship05
-    - line:ship06
-    - line:ship07
     values:
+    - 'Ship: Hey, friend.'
+    - 'Player: Hi, Ship.'
+    - 'Player: How''s space?'
+    - 'Ship: Oh, man.'
+    - 'Ship: It''s HUGE!'
+    - 'Ship: Hey!!'
+    - 'Player: Sally said you wanted to see me?'
+    - 'Ship: She totally did!!'
+    - 'Ship: She wanted me to tell you...'
+    - 'Ship: If you ever go off-watch without resetting the console again...'
+    - 'Ship: She''ll flay you alive!'
+    - 'Player: Uh.'
     - 'Player: Hey, Sally.'
     - 'Sally: Uah!'
     - 'Sally: You snuck up on me.'
@@ -61,20 +73,20 @@ MonoBehaviour:
     - 'Sally: Go say hi again.'
     - 'Sally: Bye.'
     - 'Sally: Yeah. Don''t do it again.'
-    - 'Ship: Hey, friend.'
-    - 'Player: Hi, Ship.'
-    - 'Player: How''s space?'
-    - 'Ship: Oh, man.'
-    - 'Ship: It''s HUGE!'
-    - 'Ship: Hey!!'
-    - 'Player: Sally said you wanted to see me?'
-    - 'Ship: She totally did!!'
-    - 'Ship: She wanted me to tell you...'
-    - 'Ship: If you ever go off-watch without resetting the console again...'
-    - 'Ship: She''ll flay you alive!'
-    - 'Player: Uh.'
   _assetTable:
     keys:
+    - line:5837f2
+    - line:ship09
+    - line:ship10
+    - line:ship11
+    - line:ship12
+    - line:ship13
+    - line:ship01
+    - line:ship03
+    - line:ship04
+    - line:ship05
+    - line:ship06
+    - line:ship07
     - line:794945
     - line:2dc39b
     - line:34de2f
@@ -91,19 +103,19 @@ MonoBehaviour:
     - line:5df323
     - line:60c282
     - line:d7df49
-    - line:5837f2
-    - line:ship09
-    - line:ship10
-    - line:ship11
-    - line:ship12
-    - line:ship13
-    - line:ship01
-    - line:ship03
-    - line:ship04
-    - line:ship05
-    - line:ship06
-    - line:ship07
     values:
+    - {fileID: 8300000, guid: d1ca6ee2065f253419c7965d712635cc, type: 3}
+    - {fileID: 8300000, guid: 5cb11c66e0442634bba32b194b16055f, type: 3}
+    - {fileID: 8300000, guid: bbf44e7a8dbe9c74da9802c5705b613d, type: 3}
+    - {fileID: 8300000, guid: f8ac10829878c184da12d1e550125eb2, type: 3}
+    - {fileID: 8300000, guid: 7b8f384ea6122bf4c90b38bd65f56b6d, type: 3}
+    - {fileID: 8300000, guid: 10e15d5dc43f59548ac14e5c30d16dda, type: 3}
+    - {fileID: 8300000, guid: 26fab58a5315dca428880962a812a807, type: 3}
+    - {fileID: 8300000, guid: 2acfb0f4e4a2cb444af8e147d05aadd3, type: 3}
+    - {fileID: 8300000, guid: 8ef90c8eee7f5964dbd376d850610a6b, type: 3}
+    - {fileID: 8300000, guid: d50f246020ffd7247888c37b42456d26, type: 3}
+    - {fileID: 8300000, guid: 92a28aa542307314caacdc659b65fb74, type: 3}
+    - {fileID: 8300000, guid: f2f7ea27634e10b48ac0685700ddf412, type: 3}
     - {fileID: 8300000, guid: d653c16cf588ded429931e16ec9c74b3, type: 3}
     - {fileID: 8300000, guid: 5f7416fd7f797094a93810d4bd11f610, type: 3}
     - {fileID: 8300000, guid: deadb062b242e014b9cec9340b3038f1, type: 3}
@@ -120,15 +132,3 @@ MonoBehaviour:
     - {fileID: 8300000, guid: 1aaab19050495d249a00b4f9143e0ecf, type: 3}
     - {fileID: 8300000, guid: 42259fd68e0107d4eafc514734c404af, type: 3}
     - {fileID: 8300000, guid: 8da1547987e83ce48a53cba0adba0e8a, type: 3}
-    - {fileID: 8300000, guid: d1ca6ee2065f253419c7965d712635cc, type: 3}
-    - {fileID: 8300000, guid: 5cb11c66e0442634bba32b194b16055f, type: 3}
-    - {fileID: 8300000, guid: bbf44e7a8dbe9c74da9802c5705b613d, type: 3}
-    - {fileID: 8300000, guid: f8ac10829878c184da12d1e550125eb2, type: 3}
-    - {fileID: 8300000, guid: 7b8f384ea6122bf4c90b38bd65f56b6d, type: 3}
-    - {fileID: 8300000, guid: 10e15d5dc43f59548ac14e5c30d16dda, type: 3}
-    - {fileID: 8300000, guid: 26fab58a5315dca428880962a812a807, type: 3}
-    - {fileID: 8300000, guid: 2acfb0f4e4a2cb444af8e147d05aadd3, type: 3}
-    - {fileID: 8300000, guid: 8ef90c8eee7f5964dbd376d850610a6b, type: 3}
-    - {fileID: 8300000, guid: d50f246020ffd7247888c37b42456d26, type: 3}
-    - {fileID: 8300000, guid: 92a28aa542307314caacdc659b65fb74, type: 3}
-    - {fileID: 8300000, guid: f2f7ea27634e10b48ac0685700ddf412, type: 3}

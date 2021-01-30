@@ -16,6 +16,18 @@ MonoBehaviour:
   assetSourceFolder: {fileID: 102900000, guid: 7ff8e9b3304254b479fd8264873f64d4, type: 3}
   _stringTable:
     keys:
+    - line:5837f2
+    - line:ship09
+    - line:ship10
+    - line:ship11
+    - line:ship12
+    - line:ship13
+    - line:ship01
+    - line:ship03
+    - line:ship04
+    - line:ship05
+    - line:ship06
+    - line:ship07
     - line:794945
     - line:2dc39b
     - line:34de2f
@@ -32,19 +44,20 @@ MonoBehaviour:
     - line:5df323
     - line:60c282
     - line:d7df49
-    - line:5837f2
-    - line:ship09
-    - line:ship10
-    - line:ship11
-    - line:ship12
-    - line:ship13
-    - line:ship01
-    - line:ship03
-    - line:ship04
-    - line:ship05
-    - line:ship06
-    - line:ship07
     values:
+    - 'Schiff: Hey Kumpel.  '
+    - 'Spieler: Hey Schiff. '
+    - 'Spieler: Wie geht''s dem Weltraum? '
+    - 'Schiff: Oh man. '
+    - 'Schiff: Der ist RIESIG! '
+    - 'Schiff: Hey! '
+    - 'Spieler: Sally hat mir gesagt, dass du mich sehen willst? '
+    - 'Schiff: Aber wie! '
+    - 'Schiff: Ich soll dir von ihr ausrichten: '
+    - "Schiff: Wenn du nochmal deine Schicht verl\xE4sst ohne die Konsole zur\xFCckzusetzen
+      ..."
+    - "Schiff: Wird sie dich lebendig zerhackst\xFCckeln! "
+    - 'Spieler: Oh. '
     - 'Spieler: Hey Sally. '
     - 'Sally: Uah! Hey. '
     - 'Sally: Du hast dich einfach so angeschlichen. '
@@ -61,21 +74,20 @@ MonoBehaviour:
     - 'Sally: Rede nochmal mit dem Schiff. '
     - 'Sally: Mach''s gut. '
     - 'Sally: Ja. Mach das nicht nochmal. '
-    - 'Schiff: Hey Kumpel.  '
-    - 'Spieler: Hey Schiff. '
-    - 'Spieler: Wie geht''s dem Weltraum? '
-    - 'Schiff: Oh man. '
-    - 'Schiff: Der ist RIESIG! '
-    - 'Schiff: Hey! '
-    - 'Spieler: Sally hat mir gesagt, dass du mich sehen willst? '
-    - 'Schiff: Aber wie! '
-    - 'Schiff: Ich soll dir von ihr ausrichten: '
-    - "Schiff: Wenn du nochmal deine Schicht verl\xE4sst ohne die Konsole zur\xFCckzusetzen
-      ..."
-    - "Schiff: Wird sie dich lebendig zerhackst\xFCckeln! "
-    - 'Spieler: Oh. '
   _assetTable:
     keys:
+    - line:5837f2
+    - line:ship09
+    - line:ship10
+    - line:ship11
+    - line:ship12
+    - line:ship13
+    - line:ship01
+    - line:ship03
+    - line:ship04
+    - line:ship05
+    - line:ship06
+    - line:ship07
     - line:794945
     - line:2dc39b
     - line:34de2f
@@ -92,19 +104,19 @@ MonoBehaviour:
     - line:5df323
     - line:60c282
     - line:d7df49
-    - line:5837f2
-    - line:ship09
-    - line:ship10
-    - line:ship11
-    - line:ship12
-    - line:ship13
-    - line:ship01
-    - line:ship03
-    - line:ship04
-    - line:ship05
-    - line:ship06
-    - line:ship07
     values:
+    - {fileID: 8300000, guid: 4044464b3efc6d44c963d41dedd6df2c, type: 3}
+    - {fileID: 8300000, guid: 520b1454f77b1b3438e15b0ddae70a67, type: 3}
+    - {fileID: 8300000, guid: a8ca523895d0c634c9511a5abb9dea5e, type: 3}
+    - {fileID: 8300000, guid: 56375221a80b95447864e260072eb813, type: 3}
+    - {fileID: 8300000, guid: 790ab313eba2ec74a89e6a47facb9af2, type: 3}
+    - {fileID: 8300000, guid: 4e04b498cb892364aa496059bf288763, type: 3}
+    - {fileID: 8300000, guid: 99b30374c43f50d42925448d099dc4b7, type: 3}
+    - {fileID: 8300000, guid: c70f2dc431510d940bf57ba5f08a85f6, type: 3}
+    - {fileID: 8300000, guid: 1108239bf8d04624dbf6ff7681a8a663, type: 3}
+    - {fileID: 8300000, guid: 700aa630d6a93344bb90e98811f18cf2, type: 3}
+    - {fileID: 8300000, guid: a36af5477f211ea4bb9800a800bef15b, type: 3}
+    - {fileID: 8300000, guid: 8e9930895aeba3e4596c7fa83b642114, type: 3}
     - {fileID: 8300000, guid: 955dc7a78583ca949b9e220dd7a51858, type: 3}
     - {fileID: 8300000, guid: 534763d010c9e8d4cb6dfcf5f633b608, type: 3}
     - {fileID: 8300000, guid: beccf05c797a7e74cab49fa61a666df9, type: 3}
@@ -121,15 +133,3 @@ MonoBehaviour:
     - {fileID: 8300000, guid: 09672488f26560244bd257eb895b4d2f, type: 3}
     - {fileID: 8300000, guid: 710d2f23b800d6a4db7a7bded5ace1f0, type: 3}
     - {fileID: 8300000, guid: d4cba8a6886e7224aaaf6584bb057650, type: 3}
-    - {fileID: 8300000, guid: 4044464b3efc6d44c963d41dedd6df2c, type: 3}
-    - {fileID: 8300000, guid: 520b1454f77b1b3438e15b0ddae70a67, type: 3}
-    - {fileID: 8300000, guid: a8ca523895d0c634c9511a5abb9dea5e, type: 3}
-    - {fileID: 8300000, guid: 56375221a80b95447864e260072eb813, type: 3}
-    - {fileID: 8300000, guid: 790ab313eba2ec74a89e6a47facb9af2, type: 3}
-    - {fileID: 8300000, guid: 4e04b498cb892364aa496059bf288763, type: 3}
-    - {fileID: 8300000, guid: 99b30374c43f50d42925448d099dc4b7, type: 3}
-    - {fileID: 8300000, guid: c70f2dc431510d940bf57ba5f08a85f6, type: 3}
-    - {fileID: 8300000, guid: 1108239bf8d04624dbf6ff7681a8a663, type: 3}
-    - {fileID: 8300000, guid: 700aa630d6a93344bb90e98811f18cf2, type: 3}
-    - {fileID: 8300000, guid: a36af5477f211ea4bb9800a800bef15b, type: 3}
-    - {fileID: 8300000, guid: 8e9930895aeba3e4596c7fa83b642114, type: 3}
